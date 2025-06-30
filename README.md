@@ -63,10 +63,10 @@ Currently, I am a Full-Stack Developer with experience in building web applicati
 <h1 align="left">Connect with me</h1>
 <br>
 <div align="center">
-<a href="https://github.com/Amat98" target="_blank">
+<a href="https://github.com/Milton-YVDEV" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/milton-omar-ytusaca-vilca-794873247/" target="_blank">
+<a href="https://www.linkedin.com/in/miltonyvdev/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://milton-portafolio.vercel.app/" target="_blank">
