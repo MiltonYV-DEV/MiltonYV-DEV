@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Milton Ytusaca, Full Stack developer</h1>
 
 <!--h2 without bottom border-->
-<h3 align="center"><i style="display: inline-block">Confusion is part of Programming</i></h3>
+<h3 align="center"><i style="display: inline-block">Confusion is part of Programming, It's not magic, it's code</i></h3>
 
 <table><tr><td valign="top" width="50%">
 
