@@ -29,7 +29,7 @@ Currently, I am a Full-Stack Developer with experience in building web applicati
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,py,flutter,rust,figma,netlify,flask,fastapi,nodejs,postgres,postman,vscode,github,bash,linux,neovim,arch&perline=14" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,py,flutter,rust,java,figma,netlify,flask,fastapi,nodejs,postgres,postman,vscode,github,bash,linux,neovim,arch&perline=14" />
   </a>
 </p>
 
