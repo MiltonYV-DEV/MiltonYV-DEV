@@ -1,71 +1,33 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Milton Ytusaca, Full Stack Developer</h1>
-
-<!--h2 without bottom border-->
-<h3 align="center"><i style="display: inline-block">It's not magic, it's code</i></h3>
-
-<table><tr><td valign="top" width="50%">
+<h1 align="center">Hi, I'm Dunk 👋</h1>
+<p></p>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1X09339AV_8mClQBPAxYyxZ_MqEDNyg1X" width="100%" alt="Banner">
+  Full Stack Developer · JavaScript · Python
 </p>
 
-</td><td valign="top" width="50%">
-
-<h1 align="left">About Me</h1>
-
-<br>
-
-Currently, I am a Full-Stack Developer with experience in building web applications and technological solutions. I specialize in React for the frontend, FastAPI for the backend, and PostgreSQL as the database. I have applied my skills in personal and professional projects, including developing efficient and scalable platforms for users across Latin America.
-
-</td></tr></table>
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,py,flutter,rust,java,figma,netlify,flask,fastapi,nodejs,postgres,postman,vscode,github,bash,linux,neovim,arch&perline=14" />
-  </a>
+  <img src="https://your-image-link-here" alt="banner" />
 </p>
 
-<br>
+---
 
-<!--- stats & Trophy (start) -->
-<h1 align="left">Statistics</h1>
-<p align="center">
-  <!--- stats (start) -->
+### 🚀 Tech Stack
 
-<td width="100%" align="center">
+**Frontend**
+- React.js
+- Tailwind CSS
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MiltonYV-DEV&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-</p>   
+**Backend**
+- Node.js
+- NestJS
+- FastAPI
+- Python
 
-<br>
+**Databases & ORMs**
+- SQL / NoSQL
+- ORMs
 
-<h1 align="left">Connect with me</h1>
-<br>
-<div align="center">
-<a href="https://github.com/MiltonYV-DEV/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/miltonyvdev/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://milton-portafolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
-</div>  
+---
 
-<br><br>
-
-<!--Trophies -->
+### 📫 Connect
+- GitHub: @dunk
