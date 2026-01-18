@@ -4,10 +4,6 @@
   Full Stack Developer · JavaScript · Python
 </p>
 
-<p align="center">
-  <img src="https://your-image-link-here" alt="banner" />
-</p>
-
 ---
 
 ### 🚀 Tech Stack
