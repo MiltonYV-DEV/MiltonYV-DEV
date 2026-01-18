@@ -6,4 +6,3 @@
 
 ---
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MiltonYV-DEV&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
