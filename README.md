@@ -5,24 +5,3 @@
 </p>
 
 ---
-
-### 🚀 Tech Stack
-
-**Frontend**
-- React.js
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- NestJS
-- FastAPI
-- Python
-
-**Databases & ORMs**
-- SQL / NoSQL
-- ORMs
-
----
-
-### 📫 Connect
-- GitHub: @dunk
